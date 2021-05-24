@@ -1,0 +1,21 @@
+Afrah:Alam:afrah@gmail.com:Female :2000-08-18:01612346853:Dhaka,Bangladesh:Dhaka,Bangladesh:Alumni:afrahAlam:afrah:BBA:151335512:2020-04-16:2020-06-14:UCC:Accounting:Meneger
+Tanvir:Rahman:tanvir.@gmail.com:Male:1994-05-18:01632248942:Bogra,Rajshahi,Bangladesh:Bogra,Rajshahi,Bangladesh:Alumni:tanvir:tanvir:English:15343424:2019-08-17:2021-05-24:NUV:Teacher:English
+Ashiqur:Rahman:ashiqurR@gmail.com:male:1996-06-15:01734563455:Rajshahi, Bangladesh:Dhaka, Bangladesh:Alumni:rashiqur:1345:EEE:rash1234:2018-01-01:2018-05-18:Banglalink:IT:Engineer
+Neha:Huq:neha@gmail.com:Female:1996-08-17:01354645432:Toronto,Canada:Dhaka,Bangladesh:Alumni:neha:neha:Pharmasi:1634476554:2020-03-09:2021-05-24:CDIC:Junior Officer:Sales
+Runa:Sheikh:runa@gmail.com:Female:1991-07-31:01568556979:Dhaka,Bangladesh:Dhaka,Bangladesh:Alumni:runa:runa:ETE:1142325543:2014-12-30:2021-05-24:TVM:Senior Officer:ETE
+Abdur:Rahman:abdur22@gmail.com:Male:1971-10-14:01712347234:Dhaka,Bangladesh:Dhaka,Bangladesh:Alumni:abdur:abdur:ETE:101122642:2012-05-01:2021-02-01:CRS: Emergency Response:Programme Manager
+Shirajus:Salekin:salekin@gmail.com:male:1994-03-07:56477788:Dhaka, Bangladesh:Dhaka, Bangladesh:Alumni:Salekin:1234:EEE:sal1234:2020-10-10:2020-12-10:Airtel:Engineer:IT
+Hasina :Huq:hasina@gmail.com:Female:1965-06-26:01534656532:Uganda:Dhaka,Bangladesh:Alumni:hasina:hasina:BBA:6233232:2008-05-12:2021-05-24:Brac:Country director:People in need
+Tamanna:Islam:tamanna@gmail.com:Female:1997-01-10:01753425445:Dhaka,Bangladesh:Dhaka,Bangladesh:Alumni:tamanna:tamanna:EEE:17346465:2020-11-30:2021-05-24:RUP:Engineer:Electronics
+Shadman:Sakib:shadman@gmail.com:Male:1996-03-20:01400342463:Dhaka,Bangladesh:Dhaka,Bangladesh:Alumni:shadman:shadman:CSE:162233661:2020-04-11:2021-05-24:CSE: Junior engineer:IT
+Munia:Islam:munia@gmail.com:female:1990-05-25:01355546353:Canberra,Australia:Khulna,Bangldesh:Alumni:munia:munia:BBA:1067454465:2014-08-29:2021-05-24:UMP:Maneger:Accounting
+Amy:Miller:amymiller@gmail.com:Female:1996-07-09:1234567890:Dhaka, Bangladesh:San Jose, California:Alumni:amymiller:1234:CSE:1234567:2014-01-01:2021-05-22:Brainstation-23:Software Engineer:IT
+Misu:Rahman:misu@gmail.com:Female:1991-02-13:01946644365:Ranpur,Bangladesh:Ranpur,Bangladesh:Alumni:misu:misu:Sociology:103412435:2014-05-17:2021-05-24:Brac:Coordinator:Food Security
+Alan:John:alanjohn@gmail.com:Male:1987-08-23:1234567890:New York, USA:New York, USA:Alumni:thejohnalan:1234:ETE:0538446:2009-01-01:2021-05-22:Horcrox Techion:System Engineer:IT
+Rick:Hartson:rickh@gmail.com:Male:1997-03-11:1234567890:Kansas City, Missouri, USA:Kansas City, Missouri, USA:Alumni:rickhartson:1234:BBA:1234567:2021-05-16:2021-05-22:Heros Agro Farm:Account Officer:account
+Tanzila:Rahman:tanzila@gmail.com:Female:2021-05-23:1234567890:Dhaka, Bangladesh:Dhaka, Bangladesh:Alumni:tanzilaRahman:mimi:CSE:1234567:2021-05-23:2021-05-23:Brainstation-23:IT:Software Engineer
+Sabrina:Alam:Sabrina@gmail.com:Female:1995-05-18:01533779922:Khulna:Khulna:Alumni:sabrina:sabrina:BBA:1511225611:2019-05-25:2021-05-24:Ucc:Staf:Accounting
+Sakib:Islam:sakib@gmail.com:Male:1989-05-12:01884556242:Berlin,Germany:Dhaka,Bangladesh:Alumni:sakib:sakib:CSE:10223241:2014-05-12:2021-05-24:WHO:Senior engineer:IT
+Ruku:Islam:ruku@gmail.com:Female:1992-05-22:01354894324:Sydney,Australia:Dhaka,Bangladesh:Alumni:ruku:ruku:BBA:124453533:2016-02-18:2021-05-24:GM:Junior officer:Accounting
+Zomzom:Alam:zomzom11@gmail.com:Female:1993-03-27:01733445577:London,England:Dhaka,Bangladesh:Alumni:zomzom:zomzom:English:1344662233:2017-01-18:2021-05-24:BCIC College:Teacher:English
+Abdul:Sheikh:abdul@gmail.com:Male:1984-10-26:01769364168:Sydney,Australia:Sydney,Australia:Alumni:abdul:abdul:BBA:0645334434:2006-07-14:2021-05-24:USP:Senior Executive Officer:Marketing

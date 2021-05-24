@@ -1,0 +1,82 @@
+#anchorBack {
+    -fx-background-color: linear-gradient(from 50px 300px to 502px 52px, reflect, #c3c2de, #00d4ff 100%);
+}
+
+#anchorBackUserDash{
+    -fx-background-color: linear-gradient(from 50px 300px to 502px 52px, reflect, #c3c2de, #00d4ff 100%);
+}
+
+#appTitle {
+    -fx-background-color: linear-gradient(from 50px 300px to 502px 52px, reflect, #00d4ff, #c3c2de 100%);
+}
+
+
+#loginBtn {
+    -fx-background-color: #3fbce2;
+}
+#loginBtn:hover {
+    -fx-cursor: hand;
+    -fx-background-color: aquamarine;
+}
+
+#registerDOB {
+    -fx-background-color: white;
+    -fx-border-color: white;
+}
+
+#registerDOB:focused {
+    -fx-background-color: white;
+}
+#signUpButton {
+
+}
+
+#goBackLogin {
+    -fx-cursor: hand;
+    -fx-background-color: #3fbce2;
+}
+
+#tabPane {
+    -fx-background-color: navy;
+}
+
+#tabPaneTab1 {
+    -fx-background-color: black;
+}
+
+#searchField {
+    -fx-background-color: white;
+    -fx-border-color: #0AD2E2 ;
+    -fx-text-fill: black;
+}
+
+#searchField:focused{
+    -fx-border-color: #5FEE11;
+}
+
+#searchTab, #insertTab, #updateTab, #fourthTab {
+    -fx-padding: 0px 50px 0px 50px ;
+}
+
+#firstTab.text:focused {
+    -fx-border-style: none;
+}
+
+#firstTab:visited {
+    -fx-highlight-text-fill: yellow;
+    -fx-background-color: green;
+    -fx-border-color: black;
+}
+
+#searchImg {
+    -fx-background-color: white;
+}
+
+#registerDateOFBirth {
+    -fx-text-fill: black;
+    -fx-color-label-visible: white;
+}
+
+#updateSuccess, #deleteSuccess{
+    visibility: "hidden";
+}
